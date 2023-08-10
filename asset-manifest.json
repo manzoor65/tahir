@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tahir/static/css/main.d9dc83cc.css",
-    "main.js": "/tahir/static/js/main.b2e5a51b.js",
+    "main.js": "/tahir/static/js/main.bf1446de.js",
     "static/js/787.5569205f.chunk.js": "/tahir/static/js/787.5569205f.chunk.js",
     "static/media/leaf.png": "/tahir/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/tahir/static/media/emotion.eabfc16e7a146ab15778.png",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/tahir/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/tahir/index.html",
     "main.d9dc83cc.css.map": "/tahir/static/css/main.d9dc83cc.css.map",
-    "main.b2e5a51b.js.map": "/tahir/static/js/main.b2e5a51b.js.map",
+    "main.bf1446de.js.map": "/tahir/static/js/main.bf1446de.js.map",
     "787.5569205f.chunk.js.map": "/tahir/static/js/787.5569205f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9dc83cc.css",
-    "static/js/main.b2e5a51b.js"
+    "static/js/main.bf1446de.js"
   ]
 }
